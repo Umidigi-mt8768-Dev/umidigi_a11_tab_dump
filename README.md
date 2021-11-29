@@ -17,4 +17,4 @@
 - Screen Density: 240
 - Fingerprint: UMIDIGI/A11_Tab/A11_Tab:11/RP1A.200720.011/1630047031:user/release-keys
 - Branch: full_tb8768p1_64_bsp-user-11-RP1A.200720.011-1630047031-release-keys
-- Repo: umidigi_a11_tab_dump
+- Все файлы находятся здесь: https://gitlab.com/Hadenix1/umidigi_a11_tab_dump (git не пропускает большие файлы)
